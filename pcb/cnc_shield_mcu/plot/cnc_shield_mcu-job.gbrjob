@@ -1,0 +1,60 @@
+{
+  "Header":
+  {
+    "GenerationSoftware":
+    {
+      "Vendor":      "KiCad",
+      "Application": "Pcbnew",
+      "Version":     "5.1.6-c6e7f7d~87~ubuntu20.04.1"
+    },
+    "CreationDate":  "2020-10-17T15:00:58+02:00"
+  },
+  "GeneralSpecs":
+  {
+    "ProjectId":
+    {
+      "Name": "cnc_shield_mcu",
+      "GUID": "636e635f-7368-4696-956c-645f6d63752e",
+      "Revision": "rev?"
+    },
+    "Size":
+    {
+      "X": 63.050,
+      "Y": 50.050
+    },
+    "LayerNumber": 2,
+    "BoardThickness":  1.600
+  },
+  "DesignRules":
+  [
+    {
+      "Layers": "Outer",
+      "PadToPad":  0.200,
+      "PadToTrack":  0.200,
+      "TrackToTrack":  0.200,
+      "MinLineWidth":  0.600,
+      "TrackToRegion":  1.000,
+      "RegionToRegion":  1.000
+    }
+  ],
+  "FilesAttributes":
+  [
+    {
+      "Path":  "cnc_shield_mcu-F_Cu.gbr",
+      "FileFunction":  "Copper,L1,Top",
+      "FilePolarity":  "Positive"
+    }
+  ],
+  "MaterialStackup":
+  [
+    {
+      "Type":  "Copper",
+      "Notes":  "Layer F.Cu"
+    },
+    {
+      "Type":  "Dielectric",
+      "Material":  "FR4",
+      "Notes":  "Layers L1/L2"
+    }
+  ]
+}

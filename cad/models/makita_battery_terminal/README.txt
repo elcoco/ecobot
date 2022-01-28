@@ -1,0 +1,1 @@
+Makita 18v battery terminal connector by mojo_replica on Thingiverse: https://www.thingiverse.com/thing:863257

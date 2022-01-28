@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_UNO_R3
+D Arduino UNO Microcontroller Module, release 3
+K Arduino UNO R3 Microcontroller Module Atmel AVR USB
+F https://www.arduino.cc/en/Main/arduinoBoardUno
+$ENDCMP
+#
+$CMP Pololu_Breakout_A4988
+D Pololu Breakout Board, Stepper Driver A4988
+K Pololu Breakout Board Stepper Driver A4988
+F https://www.pololu.com/product/2980/pictures
+$ENDCMP
+#
+$CMP RELAY-SPDT-JQX-15F
+D SPDT Electromechanical Relay Single-pole, double-throw sealed relays. When current is applied to the coil, it throws a simple changeover switch, terminating the connection from the NC contact to ground and closing the NO contact. Use them to switch high voltage/high current devices. <h4>SparkFun Products</h4><ul><li>JQX-15F: <a href="https://www.sparkfun.com/products/10924">Relay SPDT Sealed - 20A</a> (COM-10924)</li><li>JZC-11F: <a href="https://www.sparkfun.com/products/100">Relay SPDT Sealed</a> (COM-00100)</li></ul>
+K PROD_ID:COMP-10736
+$ENDCMP
+#
+#End Doc Library

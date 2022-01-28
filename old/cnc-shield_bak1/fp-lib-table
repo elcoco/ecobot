@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cnc-shield)(type KiCad)(uri ${KIPRJMOD}/cnc-shield.pretty)(options "")(descr ""))
+)

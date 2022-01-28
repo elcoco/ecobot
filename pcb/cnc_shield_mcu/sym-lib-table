@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name cnc_shield_mcu)(type Legacy)(uri ${KIPRJMOD}/cnc_shield_mcu.lib)(options "")(descr ""))
+  (lib (name cnc_shield_mcu-rescue)(type Legacy)(uri ${KIPRJMOD}/cnc_shield_mcu-rescue.lib)(options "")(descr ""))
+)
